@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/GitHub/Fury-s-Law/FurysLaw/Content/Maps/SettingsMenu.umap",
+				"D:/GitHub/Fury-s-Law/FurysLaw/Content/Maps/MainMenu.umap",
+				"D:/GitHub/Fury-s-Law/FurysLaw/Content/Menu/SettingsMenu/WBP_Settings.uasset",
 				"C:/Users/margu/Desktop/Fury-s-Law/FurysLaw/Content/Maps/Debug_HLOD0_Instancing.uasset",
 				"C:/Users/margu/Desktop/Fury-s-Law/FurysLaw/Content/__ExternalActors__/Maps/Debug/2/8C/FL492C45ULJAZ51NXKMON1.uasset",
 				"C:/Users/margu/Desktop/Fury-s-Law/FurysLaw/Content/__ExternalObjects__/Maps/Debug/8/O4/HNZZ06MCS5BPHHYHBVZMS0.uasset",
